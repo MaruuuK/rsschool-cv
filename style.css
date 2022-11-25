@@ -1,0 +1,62 @@
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            word-wrap: break-word;
+            line-height: 1.5;
+            text-align: justify;
+            color: black;
+            background-color: #fff;
+        }
+
+        .container {
+            max-width: 1024px;
+            margin: 32px auto;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        h1,
+        h2,
+        h3 {
+            padding-bottom: 0.3em;
+            border-bottom: 1px solid #eaecef;
+        }
+
+        section {
+            display: block;
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        ul {
+            padding-left: 2em;
+        }
+
+        .footer {
+            margin-top: 30px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .footer-date {
+            padding-top: 15px;
+        }
+
+        .footer-github {
+            padding-top: 10px;
+        }
+
+        .img-rsschool {
+            width: 120px;
+        }
+
+        .img-github {
+            width: 34px;
+        }
