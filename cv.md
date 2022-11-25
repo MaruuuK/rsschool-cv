@@ -26,3 +26,16 @@ I believe that my ability to learn quickly, be goal oriented, and my personal in
 
 ### Experience
 *Nothing yet...*
+
+### Education
+* **EPAM Upskill**
+  * IT Fundamentals
+* **FreeCodeCamp**
+  * Responsive Web Design (*in progress*)
+  * JavaScript Algorithms and Data Structures (*in progress*)
+* **JavaScript Manual** on [javascript.info](https://javascript.info/) (*in progress*)
+* **RS School. UpSkill Me course** (*in progress*)
+
+#### Languages
+* English: C1 (acccording to EPAM English test)
+* Russian: Native
