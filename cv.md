@@ -19,3 +19,10 @@ I believe that my ability to learn quickly, be goal oriented, and my personal in
 * Version control: Git (remote service GitHub)
 * Editors: **VSCode**, PyCharm
 * Windows OS, Linux(Ubuntu) Basics
+
+### Code example
+
+![Code example]()
+
+### Experience
+*Nothing yet...*
